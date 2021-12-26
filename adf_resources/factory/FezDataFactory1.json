@@ -1,0 +1,9 @@
+{
+	"name": "FezDataFactory1",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3b76ea99-7ba1-48f0-a502-0db883577c07",
+		"tenantId": "2fe3f757-8913-496e-a8c6-dd3e4f3cb60d"
+	}
+}
